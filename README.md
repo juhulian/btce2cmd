@@ -19,3 +19,12 @@ etc 0010.33 0009.26
 ltc 0046.65 0042.08
 xem 0000.19 0000.17
 ```
+
+wex.nz: the new btc-e
+```bash
+$ python2 wex.py
+wex.nz                    2017-10-25 23:19:38
+btc: 5795.030 USD  5020.604 EUR
+ltc:   56.840 USD    49.126 EUR     0.010 BTC
+eth:  303.200 USD   263.785 EUR     0.052 BTC
+```
